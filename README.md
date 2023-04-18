@@ -1,4 +1,5 @@
-# Sports-Bet-analysis
+# BET ANALYTICS
+
 Nesse projeto o intuito é adquirir dados esportivos, realizar análise e sugerir aposta.
 
 Possíveis features:
